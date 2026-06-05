@@ -46,7 +46,7 @@ The dashboard enables users to monitor key business metrics, identify top-perfor
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](Dashboard_Screenshot)
+![Dashboard Screenshot](Dashboard_Screenshot.PNG)
 
 ---
 
